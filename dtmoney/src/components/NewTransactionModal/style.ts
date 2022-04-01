@@ -1,5 +1,9 @@
 import styled from "styled-components";
+<<<<<<< HEAD
 import { darken, transparentize } from 'polished'
+=======
+import { darken } from 'polished'
+>>>>>>> caa1ae67c21c254487d518c8c96e26b33f61c088
 
 export const Cointainer = styled.form`
   h2 {
@@ -76,6 +80,7 @@ export const TransactionTypeContainer = styled.div`
   gap: 0.5rem;
 
   button {
+<<<<<<< HEAD
     
   }
 `;
@@ -96,6 +101,13 @@ export const RadioBox = styled.button<RadioBoxProps>`
     border-radius: 0.25rem;
 
     background: ${(props) => props.isActive ? transparentize(0.9, color[props.activeColor]) : 'transparent'};
+=======
+    height: 4rem;
+    border: 1px solid #d7d7d7;
+    border-radius: 0.25rem;
+
+    background: transparent;
+>>>>>>> caa1ae67c21c254487d518c8c96e26b33f61c088
 
     display: flex;
     align-items: center;
@@ -118,4 +130,8 @@ export const RadioBox = styled.button<RadioBoxProps>`
       font-size: 1rem;
       color: var(--text-title);
     }
+<<<<<<< HEAD
+=======
+  }
+>>>>>>> caa1ae67c21c254487d518c8c96e26b33f61c088
 `;
