@@ -90,7 +90,6 @@ const color = {
   green: '#33cc95',
 }
 
-
 export const RadioBox = styled.button<RadioBoxProps>`
   height: 4rem;
     border: 1px solid #d7d7d7;
