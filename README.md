@@ -13,7 +13,7 @@ DT Money é um controle de contas financeiro pessoal que cadastra contas de entr
   <img src="https://github.com/brunoemferreira/rocketseat-ignite-dt-money/blob/main/Assets/tela2.png">
 </div>
 <div align="center">
-  <img src=".https://github.com/brunoemferreira/rocketseat-ignite-dt-money/blob/main/Assets/tela3.png">
+  <img src="https://github.com/brunoemferreira/rocketseat-ignite-dt-money/blob/main/Assets/tela3.png">
 </div>
 
 ## 🧰 Tecnologias e Bibliotecas
