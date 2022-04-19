@@ -1,8 +1,3 @@
-<!-- Logotipo -->
-<div align="center">
-  <img src="./Assets/ignite.png">
-</div>
-
 <!-- Title -->
 <h1 align="center"> RocketSeat 🔥 Ignite ReactJS </h1>
 
